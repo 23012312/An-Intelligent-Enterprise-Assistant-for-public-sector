@@ -1,6 +1,6 @@
 # An-Intelligent-Enterprise-Assistant-for-public-sector
-## Name : D.B.V.SAI GANESH
-## REG NO : 212223240025
+## Name : K ABHINESWAR REDDY
+## REG NO : 212223040084
 ## Intelligent Enterprise Assistant
 An AI-powered virtual assistant designed to help the public sector work smarter. It automates tasks like document search, policy answering, leave requests, and helpdesk support — all through natural conversation.
 
